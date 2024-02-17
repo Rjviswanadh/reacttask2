@@ -1,5 +1,5 @@
 # crediential
-username : anything
+username : anything;
 password : 12345
 
 # Getting Started with Create React App
